@@ -1,0 +1,15 @@
+File,Size (bytes)
+.dockerignore,362
+.editorconfig,321
+.gitattributes,390
+.gitignore,378
+.gitmodules,190
+CODEOWNERS,111
+CODE_OF_CONDUCT.md,5221
+LICENSE,32388
+Makefile,1056
+README.md,5512
+SECURITY.md,107
+install.sh,2890
+localizely.yml,3222
+renovate.json,2021
